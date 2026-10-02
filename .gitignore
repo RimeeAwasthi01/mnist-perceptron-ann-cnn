@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+# dataset is too large for GitHub
+mnist_train.csv
+mnist_test.csv
+*.h5
+*.keras
